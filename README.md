@@ -5,8 +5,9 @@
 ### Bring your oceans to life with smooth, animated waves in Vanilla Minecraft.
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-5FBF5F?style=flat-square)](https://www.minecraft.net/)
-[![Version](https://img.shields.io/badge/26.2-blue?style=flat-square)](https://www.minecraft.net/)
+[![Version](https://img.shields.io/badge/Version-26.2-blue?style=flat-square)](https://www.minecraft.net/)
 [![License](https://img.shields.io/github/license/USERNAME/Wavy-Oceans?style=flat-square)](LICENSE)
+![GitHub Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/Legacy-Boats/total?style=flat-square&label=DOWNLOADS)
 
 ---
 
