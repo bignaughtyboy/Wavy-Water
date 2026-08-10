@@ -1,0 +1,9 @@
+{
+   "pack": {
+      "pack_format": 34,
+      "min_format": 1,
+      "max_format": 1000,
+      "supported_formats": [1, 1000],
+      "description": "Wave Water in Minecraft" 
+   }
+}
