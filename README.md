@@ -9,6 +9,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![GitHub Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/Legacy-Boats/total?style=flat-square&label=DOWNLOADS)
 
+</div>
+
 ---
 
 ## Features
@@ -29,15 +31,6 @@ The wave effect is intentionally simple and stylized, adding movement and depth 
 2. Open **Minecraft > Options > Resource Packs**.
 3. Drag the pack into the resource pack folder.
 4. Enable the pack and enjoy animated water.
-
----
-
-## Compatibility
-
-| Minecraft Version | Support      |
-| ----------------- | ------------ |
-| **1.21.6 (26.2)** | ✅ Yes        |
-| Older versions    | ⚠ Not tested |
 
 ---
 
