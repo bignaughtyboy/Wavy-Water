@@ -6,7 +6,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-5FBF5F?style=flat-square)](https://www.minecraft.net/)
 [![Version](https://img.shields.io/badge/Version-26.2-blue?style=flat-square)](https://www.minecraft.net/)
-[![License](https://img.shields.io/github/license/USERNAME/Wavy-Oceans?style=flat-square)](LICENSE)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![GitHub Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/Legacy-Boats/total?style=flat-square&label=DOWNLOADS)
 
 ---
