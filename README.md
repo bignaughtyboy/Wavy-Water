@@ -46,8 +46,6 @@ Some rendering mods that replace Minecraft’s rendering pipeline (such as certa
 
 Based on the original **Wavy Water** concept by **AlphaLeoli**.
 
-This repository contains an updated version compatible with **Minecraft 1.21.6 (26.2)**.
+For older versions, please download the original resource pack from Modrinth: https://modrinth.com/resourcepack/waves
 
 ---
-
-If you enjoy the pack, consider giving the repository a ⭐ and sharing it with other Minecraft players.
