@@ -1,8 +1,12 @@
-# Wavy Water for Minecraft 1.21.6 (26.2)
+<div align="center">
 
-Bring your oceans to life with smooth, animated waves in **Vanilla Minecraft**.
+# 🌊 Wavy Water
 
-Wavy Water adds subtle wave motion and depth to water surfaces without requiring OptiFine, Iris, or any shader pack. This version has been updated and adapted for **Minecraft Java Edition 1.21.6 (26.2)**, preserving the original visual style while ensuring compatibility with the latest version.
+### Bring your oceans to life with smooth, animated waves in Vanilla Minecraft.
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-Resource%20Pack-5FBF5F?style=flat-square)](https://www.minecraft.net/)
+[![Version](https://img.shields.io/badge/26.2-blue?style=flat-square)](https://www.minecraft.net/)
+[![License](https://img.shields.io/github/license/USERNAME/Wavy-Oceans?style=flat-square)](LICENSE)
 
 ---
 
@@ -12,7 +16,7 @@ Wavy Water adds subtle wave motion and depth to water surfaces without requiring
 * ⚡ No shader pack required
 * 📦 Lightweight and easy to install
 * 🎮 Designed to stay close to the vanilla aesthetic
-* 🆕 Updated for **Minecraft 1.21.6 (26.2)**
+* 🆕 Updated for **Minecraft 26.2**
 
 The wave effect is intentionally simple and stylized, adding movement and depth to oceans, rivers, lakes, and other water surfaces without dramatically changing Minecraft’s original look.
 
